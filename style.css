@@ -258,32 +258,15 @@ footer{
     font-family: sans-serif;
     line-height: 1.8;
 }
-#newPublish {
-    background-color: #c5edf3;
-    color: #463c39;
-    font-size: 17px;
-    padding: 30px 30px;
-    width: 40%;
-    border: 2px solid #009688;
-    font-family: sans-serif;
-    line-height: 1.8;
-}
+
+
 .box {
     background-color: #f7f7f7;
     margin-top: 60px;
     margin-bottom: 50px;
     padding: 40px 60px;
 }
-#details_info {
-    background-color: #f7f7f7;
-    color: #463c39;
-    font-size: 17px;
-    padding: 30px 30px;
-    width: 40%;
-    border: 1px solid #cccccc;
-    font-family: sans-serif;
-    line-height: 1.8;
-    margin-left: 90px;
+
 }
 .box3 {
     margin-top: 80px;
@@ -311,15 +294,7 @@ footer{
     background-color: #d9edf7;
     box-shadow: 3px 5px 10px #318f86;
 }
-.hotel_reserve_box {
-    margin-top: 30px;
-    margin-left: 350px;
-    margin-right: 350px;
-    margin-bottom: 60px;
-    padding: 40px 50px;
-    background-color: #c6badc;
-    box-shadow: 3px 5px 10px #7527b0;
-}  
+
 .online_food_delivery_box {
     margin-top: 50px;
     margin-left: 350px;
@@ -349,24 +324,4 @@ footer{
     font-size: 26px;
     text-align: center;
 }
-input[type=text], input[type=submit] {
-  
-  padding: 13px;
-  margin: 10px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  box-sizing: border-box;
-}
 
-input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-}
-
-input[type=submit]:hover {
-  opacity: 0.8;
-}
-.form-control{
-    font-size: 23px;
-}
